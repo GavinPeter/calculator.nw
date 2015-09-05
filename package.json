@@ -1,0 +1,13 @@
+{
+  "name": "Calculator",
+  "version": "0.1",
+  "main": "index.html",
+  "window": {
+    "title": "Calculator",
+    "toolbar": false,
+    "resizable": true,
+    "position": "center",
+    "width": 325,
+    "height": 270
+  }
+}
